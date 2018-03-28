@@ -10,8 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("testing gihub in VS");
             Console.WriteLine("testing gihub in VS #1");
-            Console.WriteLine("testing gihub in VS #2");
         }
     }
 }
