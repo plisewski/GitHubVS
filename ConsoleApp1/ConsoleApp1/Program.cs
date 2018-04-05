@@ -13,7 +13,7 @@ namespace ConsoleApp1
             Console.WriteLine("testing gihub in VS #1");
             Console.WriteLine("testing gihub in VS #2");
             Console.WriteLine("testing gihub in VS #n");
-            // a change made online to trigger a pull from within the local VisualStudio 
+            Console.WriteLine("another line created to branch1 locally in VS");
         }
     }
 }
