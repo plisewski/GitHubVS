@@ -14,6 +14,7 @@ namespace ConsoleApp1
             Console.WriteLine("testing gihub in VS #2");
             Console.WriteLine("testing gihub in VS #n");
             Console.WriteLine("another line created to branch1 locally in VS");
+            Console.WriteLine("new line added online");
         }
     }
 }
