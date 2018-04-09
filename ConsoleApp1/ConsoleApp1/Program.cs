@@ -16,6 +16,12 @@ namespace ConsoleApp1
             Console.WriteLine("testing gihub in VS #n");
             Console.WriteLine("another line created to branch1 locally in VS");
             Console.WriteLine("new line added online");
+
+            // lines of code added locally for pull request
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
